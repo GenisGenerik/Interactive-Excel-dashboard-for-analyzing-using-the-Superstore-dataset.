@@ -2,7 +2,7 @@
 
 Dashboard interaktif Microsoft Excel untuk mengeksplorasi kinerja penjualan dan profit pada dataset Superstore.
 
-<video src="resource/vidio/utama.mp4" controls width="800"></video>
+[<video src="resource/vidio/utama.mp4" controls width="800"></video>](https://github.com/user-attachments/assets/fd59422f-bcc4-4e58-94b0-ed47b841a28c)
 
 ## Daftar Isi
 
